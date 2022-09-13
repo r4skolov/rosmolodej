@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","names":["document","addEventListener"],"sources":["main.js"],"sourcesContent":["\"use strict\";\r\ndocument.addEventListener(\"DOMContentLoaded\", () => {\r\n  // тут глобальные функции для сквозных елементов\r\n});\r\n"],"mappings":"AAAA;;AACAA,QAAQ,CAACC,gBAAT,CAA0B,kBAA1B,EAA8C,YAAM,CAClD;AACD,CAFD"}
